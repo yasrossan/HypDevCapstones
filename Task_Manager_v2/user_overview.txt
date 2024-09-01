@@ -1,0 +1,21 @@
+
+User Overview
+
+The total number of users registered with task_manager is: 2
+The total number of tasks that have been generated and tracked is 2
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+admin
+Total number of tasks assigned: 2
+Percentage of tasks compared to total tasks: 100%
+Completed tasks: 1, 50%
+Incomplete tasks: 1, 50%
+Incomplete & Overdue: 0, 0%
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
+user1
+Total number of tasks assigned: 0
+Percentage of tasks compared to total tasks: 0%
+Completed tasks: 0, 0%
+Incomplete tasks: 0, 0%
+Incomplete & Overdue: 0, 0%
+≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
